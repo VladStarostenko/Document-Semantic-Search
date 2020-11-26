@@ -1,2 +1,28 @@
 # Document-Semantic-Search
-Project for EY
+
+
+## Technological stack
+
+For web aplikation: 
+
+- JS (maybe TS)
+- React
+
+For AI: 
+
+- Azure
+- Azure Cognitive Search
+- Azure App Service
+
+
+## Description of functionality
+
+* Our app will provide semantic search. 
+* The search will be conducted in Polish. 
+* The database will be the Polish Wikipedia.
+
+The user submits a query in the search bar, and our app gives him the answers found in the Polish Wikipedia.
+
+## Conseption of semantic search 
+
+![Conseption](https://github.com/VladStarostenko/Document-Semantic-Search/blob/main/Conseption.png)
