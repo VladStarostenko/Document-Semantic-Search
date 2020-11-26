@@ -7,6 +7,7 @@ For web aplikation:
 
 - JS (maybe TS)
 - React
+- Wiki API for searching
 
 For AI: 
 
@@ -23,6 +24,12 @@ For AI:
 
 The user submits a query in the search bar, and our app gives him the answers found in the Polish Wikipedia.
 
+
 ## Conseption of semantic search 
 
-![Conseption](https://github.com/VladStarostenko/Document-Semantic-Search/blob/main/Conseption.png)
+![Conseption](https://github.com/VladStarostenko/Document-Semantic-Search/blob/main/Semantic-Search.png)
+
+
+## How it works from a technical point of view?
+
+![HowItWork](https://github.com/VladStarostenko/Document-Semantic-Search/blob/main/Conseption.png)
