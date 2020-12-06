@@ -35,11 +35,12 @@ The user submits a query in the search bar, and our app gives him the answers fo
 ![HowItWork](https://github.com/VladStarostenko/Document-Semantic-Search/blob/main/Conseption.png)
 
 ## Timetable
-
-* P1 (19.11.2020) - Brainstorming: Requirements gathering, Architecture, Scrum. 
-* P2 (26.11.2020) - Init Github Repo, write documentation, Artifacts, supported Timetable, Plan architecture. 
-* P3 (10.12.2020) - Full functionality description, full technology stack, architecture, timetable.
-* P4 (07.01.2021) - Creating a search page in the selected technology, connecting the api to the frontend, creating the first version of the search engine. 
-* P5 (14.01.2021) - Make the full functionality of the project. 
-* P6 (21.01.2021) - Fix bugs and write tests.
-* P7 (28.01.2021) - Create video and project presentation.
+|  NR  | Data      | Tasks                                                        |
+| ---- | --------- | ------------------------------------------------------------ |
+|  P1  |19.11.2020 | Brainstorming: Requirements gathering, Architecture, Scrum   |
+|  P2  |26.11.2020 | Init Github Repo, write documentation, Artifacts, supported Timetable, Plan architecture |
+|  P3  |10.12.2020 | Full functionality description, full technology stack, architecture, timetable |
+|  P4  |07.01.2020 | Creating a search page in the selected technology, connecting the api to the frontend, creating the first version of the search engine |
+|  P5  |14.01.2020 | Make the full functionality of the projecte |
+|  P6  |21.01.2020 | Fix bugs and write tests |
+|  P7  |28.01.2020 | Create video and project presentation |
