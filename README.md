@@ -1,5 +1,7 @@
 # Document-Semantic-Search
 
+## Description
+Implementing a semantic search on a set of documents in Polish (data set - Polish-language Wikipedia corpus).  The engine will search for text fragments from documents.
 
 ## Technological stack
 
