@@ -5,7 +5,7 @@ Implementing a semantic search on a set of documents in Polish (data set - Polis
 
 ## Technological stack
 
-For web aplikation: 
+For web aplication: 
 
 - JS (maybe TS)
 - React
