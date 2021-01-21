@@ -2,8 +2,8 @@ import React from "react";
 import { makeStyles, Theme, createStyles } from "@material-ui/core/styles";
 import List from "@material-ui/core/List";
 import ListItem from "@material-ui/core/ListItem";
-import ListItemText from "@material-ui/core/ListItemText";
 import Typography from "@material-ui/core/Typography";
+import {Link} from "@material-ui/core";
 
 const useStyles = makeStyles((theme: Theme) =>
   createStyles({
@@ -20,31 +20,24 @@ const useStyles = makeStyles((theme: Theme) =>
   })
 );
 
-function generate(element: React.ReactElement) {
-  return [0, 1, 2].map((value) =>
-    React.cloneElement(element, {
-      key: value,
-    })
-  );
-}
 
-export default () => {
+export default ({result}:{result: Array<any>}) => {
   const classes = useStyles();
-  const [dense, setDense] = React.useState(false);
-  const [secondary, setSecondary] = React.useState(false);
 
   return (
     <>
       <Typography variant="h6" className={classes.title}>
-        Results
+        {result.length > 0 ? `${result.length} Results` : "Enter something ..."}
       </Typography>
       <div className={classes.demo}>
-        <List dense={dense}>
-          {generate(
+        <List>
+          {result.map((element: any) => (
             <ListItem>
-              <ListItemText primary="Single-line item" />
+              <Link href={element.link} rel={"noopener noreferrer"} target={"_blank"} >
+                {element.name}
+              </Link>
             </ListItem>
-          )}
+          ))}
         </List>
       </div>
     </>
