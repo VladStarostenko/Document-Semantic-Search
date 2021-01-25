@@ -4,7 +4,7 @@ import List from "@material-ui/core/List";
 import ListItem from "@material-ui/core/ListItem";
 import Typography from "@material-ui/core/Typography";
 import { Link } from "@material-ui/core";
-import "./index.css";
+
 const useStyles = makeStyles((theme: Theme) =>
   createStyles({
     root: {
