@@ -7,8 +7,8 @@ Implementing a semantic search on a set of documents in Polish (data set - Polis
 
 For web aplication: 
 
-- JS (maybe TS)
-- React
+- TypeScript
+- React JS
 - Wiki API for searching
 
 For AI: 
