@@ -40,12 +40,12 @@ The user submits a query in the search bar, and our app gives him the answers fo
 
 # How does our app work?
 
-The user enters the request.
-The application sends this request to the Azure Cognitive Search Service.
-The Azure Cognitive Search Service returns the key phrases of this request.
-The application sends a request to the Wikipedia with key phrases from the Service's responce.
-Wikipedia returns search results.
-The app displays the search results on the screen.
+- The user enters the request.
+- The application sends this request to the Azure Cognitive Search Service.
+- The Azure Cognitive Search Service returns the key phrases of this request.
+- The application sends a request to the Wikipedia with key phrases from the Service's responce.
+- Wikipedia returns search results.
+- The app displays the search results on the screen.
 
 
 
