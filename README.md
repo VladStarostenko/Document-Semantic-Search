@@ -47,6 +47,15 @@ The user submits a query in the search bar, and our app gives him the answers fo
 - Wikipedia returns search results.
 - The app displays the search results on the screen.
 
+### How to run the app?
+
+- Generate "Ocp-Apim-Subscription-Key" key for Azure Cognitive Search Service. 
+- Insert this key in the code or in the ENV variable.
+- Go to the Semantic-Search folder. 
+- Run `yarn` to install the dependencies
+- Run `yarn start`
+- Go to `localhost:3000`
+
 
 
 ## Timetable
