@@ -38,7 +38,7 @@ The user submits a query in the search bar, and our app gives him the answers fo
 
 ## Description of out solution
 
-# How does our app work?
+### How does our app work?
 
 - The user enters the request.
 - The application sends this request to the Azure Cognitive Search Service.
