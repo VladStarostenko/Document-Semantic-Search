@@ -57,6 +57,11 @@ The user submits a query in the search bar, and our app gives him the answers fo
 - Go to `localhost:3000`
 
 
+## Sequence Diagram
+
+![Sequence diagram](https://github.com/VladStarostenko/Document-Semantic-Search/blob/main/SequenceDiagram.png)
+
+
 
 ## Timetable
 |  NR  | Data      | Tasks                                                        |
