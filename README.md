@@ -56,6 +56,16 @@ The user submits a query in the search bar, and our app gives him the answers fo
 - Run `yarn start`
 - Go to `localhost:3000`
 
+### Examples of queries
+
+- Najbogatszy człowiek świata
+- Najwieksza korporacja świata
+- Kto jest deryktorem tesla
+- Kiedy się skończyła druga wojna światowa
+- Najdroższy samochów w świcie
+- Kto jest najbogatszym człowiekiem na świecie
+- Ile mieszkańców w polsce
+
 
 ## Sequence Diagram
 
